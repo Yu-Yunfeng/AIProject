@@ -1,0 +1,3 @@
+/Users/yyf/Desktop/AIProject_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yyf/Desktop/AIProject_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yyf/Desktop/AIProject_1/cmake-build-debug/CMakeFiles/AIProject_1.dir
